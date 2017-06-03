@@ -18,6 +18,7 @@
   "ignore": [
   ],
   "main": [
+    "style.css",
     "fonts/et-line.eot",
     "fonts/et-line.svg",
     "fonts/et-line.ttf",
